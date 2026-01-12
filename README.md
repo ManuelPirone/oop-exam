@@ -50,4 +50,4 @@ The system implements a `CustomIterator` to handle transaction traversal.
 * **Subject:** `Account`
 * **Observer:** `AlertService`
 
-![UML Class Diagram](UML_Diagram.png)
+![UML Class Diagram](UML_diagram.png)
